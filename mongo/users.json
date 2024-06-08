@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6638df63246a0f31f834b7c9"
+  },
+  "name": "hiepbo100@gmail.com",
+  "email": "hiepbo100@gmail.com",
+  "password": "025125310",
+  "address": "",
+  "phone": "",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-05-06T13:47:15.211Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-06T13:47:15.211Z"
+  },
+  "__v": 0
+}]

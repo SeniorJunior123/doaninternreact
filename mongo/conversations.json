@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "62878ab009fa6315268fdb9e"
+  },
+  "seen": false,
+  "idUser": "6287836309fa6315268fdb95",
+  "nameConversation": "Lê Minh Triệu",
+  "createdAt": {
+    "$date": "2022-05-20T12:33:52.651Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-29T10:26:39.766Z"
+  },
+  "__v": 0,
+  "lastMessage": "admIN"
+},
+{
+  "_id": {
+    "$oid": "62dffe0a83bc833b2c50e05b"
+  },
+  "seen": false,
+  "idUser": "62daa0a859f2e620908d7de0",
+  "nameConversation": "Phan Tánh",
+  "createdAt": {
+    "$date": "2022-07-26T14:45:30.759Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-29T10:26:22.107Z"
+  },
+  "__v": 0,
+  "lastMessage": "Admin4 --> nguyen hoai thuong"
+},
+{
+  "_id": {
+    "$oid": "62e3b51ba2bf841a3c83fc20"
+  },
+  "seen": false,
+  "idUser": "628846ba4074390575e723cd",
+  "nameConversation": "Lê Đức Thi",
+  "createdAt": {
+    "$date": "2022-07-29T10:23:23.251Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-29T10:26:58.804Z"
+  },
+  "__v": 0,
+  "lastMessage": "admin 4 --> cdcdsca"
+},
+{
+  "_id": {
+    "$oid": "633d52fa343f2b3e04077e37"
+  },
+  "seen": false,
+  "idUser": "633d513972a7a459d8b1ecb3",
+  "nameConversation": "Lê Đức Thi",
+  "createdAt": {
+    "$date": "2022-10-05T09:48:42.391Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-05T14:23:03.127Z"
+  },
+  "__v": 0,
+  "lastMessage": "helllo 123"
+},
+{
+  "_id": {
+    "$oid": "634248aa6d955d057825c1f1"
+  },
+  "seen": false,
+  "idUser": "634248356d955d057825c1ec",
+  "nameConversation": "Lê Đức Thi",
+  "createdAt": {
+    "$date": "2022-10-09T04:06:02.571Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T04:06:02.751Z"
+  },
+  "__v": 0,
+  "lastMessage": "jh"
+},
+{
+  "_id": {
+    "$oid": "6369caf48d481286b827a8b2"
+  },
+  "seen": false,
+  "idUser": "6368dd2b33c0631d30c6e906",
+  "nameConversation": "Lê Đức Thi",
+  "createdAt": {
+    "$date": "2022-11-08T03:20:20.909Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-08T03:26:43.124Z"
+  },
+  "__v": 0,
+  "lastMessage": "vvvvv"
+},
+{
+  "_id": {
+    "$oid": "636a7070cbc6df4720939079"
+  },
+  "seen": false,
+  "idUser": "636a705dcbc6df4720939078",
+  "nameConversation": "Lê Đức Thi",
+  "createdAt": {
+    "$date": "2022-11-08T15:06:24.185Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-08T15:06:52.946Z"
+  },
+  "__v": 0,
+  "lastMessage": "5555555"
+},
+{
+  "_id": {
+    "$oid": "636e78bc95ca3b59986016e1"
+  },
+  "seen": false,
+  "idUser": "636e789795ca3b59986016d5",
+  "nameConversation": "Lê Đức Thi",
+  "createdAt": {
+    "$date": "2022-11-11T16:30:52.791Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-12T01:11:58.069Z"
+  },
+  "__v": 0,
+  "lastMessage": "aaaaaaaaaaaaa"
+},
+{
+  "_id": {
+    "$oid": "63886966ae7bc90ef81c5dec"
+  },
+  "seen": false,
+  "idUser": "638866bbae7bc90ef81c5de5",
+  "nameConversation": "tanh",
+  "createdAt": {
+    "$date": "2022-12-01T08:44:22.281Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-06T02:25:07.647Z"
+  },
+  "__v": 0,
+  "lastMessage": "hi"
+}]

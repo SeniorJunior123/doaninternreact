@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6375d4f0a00076094824d779"
+  },
+  "name": "Cá Dĩa",
+  "img": "https://bizweb.dktcdn.net/100/441/675/themes/925183/assets/brand_2.jpg?1712843682893",
+  "cloudinary_id": "xg66rfo25ipudpnjvrz6",
+  "createdAt": {
+    "$date": "2022-11-17T06:30:08.461Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-17T06:30:08.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6375d4f9a00076094824d77a"
+  },
+  "name": "Cá Thần Tiên",
+  "img": "https://bizweb.dktcdn.net/100/441/675/themes/925183/assets/brand_3.jpg?1712843682893",
+  "cloudinary_id": "p0hjanja70f5z5jooeir",
+  "createdAt": {
+    "$date": "2022-11-17T06:30:17.582Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-17T06:30:17.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6375d505a00076094824d77b"
+  },
+  "name": "Phượng Hoàng",
+  "img": "https://bizweb.dktcdn.net/100/441/675/themes/925183/assets/brand_4.jpg?1712843682893",
+  "cloudinary_id": "jagqfsuh5mfjelnsh7ia",
+  "createdAt": {
+    "$date": "2022-11-17T06:30:29.045Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-17T06:30:29.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6375d511a00076094824d77c"
+  },
+  "name": "Cá Cầu Vòng",
+  "img": "https://bizweb.dktcdn.net/100/441/675/themes/925183/assets/brand_5.jpg?1712843682893",
+  "cloudinary_id": "wgerqwc9lzafo6ie1bt9",
+  "createdAt": {
+    "$date": "2022-11-17T06:30:41.943Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-17T06:30:41.943Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6375d51ba00076094824d77d"
+  },
+  "name": "Cá Neon",
+  "img": "https://bizweb.dktcdn.net/100/441/675/themes/925183/assets/brand_1.jpg?1712843682893",
+  "cloudinary_id": "sjnfuimbmrj4lm5pxvgj",
+  "createdAt": {
+    "$date": "2022-11-17T06:30:51.841Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-17T06:30:51.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6375d524a00076094824d77e"
+  },
+  "name": "Cá Ali Thái",
+  "img": "https://bizweb.dktcdn.net/100/441/675/themes/925183/assets/brand_6.jpg?1712843682893",
+  "cloudinary_id": "lyp8wbucamdoradbg5tm",
+  "createdAt": {
+    "$date": "2022-11-17T06:31:00.998Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-17T06:31:00.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6375d52ea00076094824d77f"
+  },
+  "name": "Cá Chuột",
+  "img": "https://bizweb.dktcdn.net/100/441/675/themes/925183/assets/brand_7.jpg?1712843682893",
+  "cloudinary_id": "b9cphfq6ydite02ebcqs",
+  "createdAt": {
+    "$date": "2022-11-17T06:31:10.571Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-17T06:31:10.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6375d537a00076094824d780"
+  },
+  "name": "Cá Betta",
+  "img": "https://bizweb.dktcdn.net/100/441/675/themes/925183/assets/brand_8.jpg?1712843682893",
+  "cloudinary_id": "wuffjgikosqdklca9kkv",
+  "createdAt": {
+    "$date": "2022-11-17T06:31:19.527Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-17T06:31:19.527Z"
+  },
+  "__v": 0
+}]

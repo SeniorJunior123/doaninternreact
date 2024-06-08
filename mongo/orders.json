@@ -1,0 +1,125 @@
+[{
+  "_id": {
+    "$oid": "6638e031246a0f31f834b7ca"
+  },
+  "order_code": "",
+  "to_ward_code": "21207",
+  "to_district_id": 1454,
+  "cancelOrder": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674506"
+      },
+      "name": "Cá Phượng Hoàng Vàng Cánh Én - German Gold Ram Lyra",
+      "salePrice": 22000,
+      "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/phuonghoangvangcanhen.jpg?v=1703000548583",
+      "qty": "5"
+    }
+  ],
+  "shippingAddress": {
+    "province": "Hồ Chí Minh",
+    "district": "Quận 12",
+    "ward": "Phường Tân Thới Nhất",
+    "detail": "14/4",
+    "name": "Duong Van Hiep",
+    "phone": "0899288922"
+  },
+  "paymentMethod": "payOnline",
+  "totalPrice": 110000,
+  "status": "pendding",
+  "name": "hiepbo100@gmail.com",
+  "user": {
+    "$oid": "6638df63246a0f31f834b7c9"
+  },
+  "createdAt": {
+    "$date": "2024-05-06T13:50:41.068Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-06T13:50:41.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6638e03a246a0f31f834b7cc"
+  },
+  "order_code": "",
+  "to_ward_code": "21207",
+  "to_district_id": 1454,
+  "cancelOrder": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674506"
+      },
+      "name": "Cá Phượng Hoàng Vàng Cánh Én - German Gold Ram Lyra",
+      "salePrice": 22000,
+      "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/phuonghoangvangcanhen.jpg?v=1703000548583",
+      "qty": "5"
+    }
+  ],
+  "shippingAddress": {
+    "province": "Hồ Chí Minh",
+    "district": "Quận 12",
+    "ward": "Phường Tân Thới Nhất",
+    "detail": "14/4",
+    "name": "Duong Van Hiep",
+    "phone": "0899288922"
+  },
+  "paymentMethod": "payLater",
+  "totalPrice": 110000,
+  "status": "pendding",
+  "name": "hiepbo100@gmail.com",
+  "user": {
+    "$oid": "6638df63246a0f31f834b7c9"
+  },
+  "createdAt": {
+    "$date": "2024-05-06T13:50:50.640Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-06T13:50:50.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6638e065246a0f31f834b7ce"
+  },
+  "order_code": "",
+  "to_district_id": 3451,
+  "cancelOrder": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674500"
+      },
+      "name": "Cá Phượng Hoàng Peru Vàng",
+      "salePrice": 45000,
+      "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/snapinsta-app-80720125-2561114550793200-6249615267797580378-n-1080.png?v=1703000538260",
+      "qty": "1"
+    }
+  ],
+  "shippingAddress": {
+    "province": "Hưng Yên",
+    "district": "Quận Đặc Biệt",
+    "ward": "Phường / Xã",
+    "detail": "14/4",
+    "name": "Duong Van Hiep",
+    "phone": "0899288922"
+  },
+  "paymentMethod": "payOnline",
+  "totalPrice": 45000,
+  "status": "pendding",
+  "name": "hiepbo100@gmail.com",
+  "user": {
+    "$oid": "6638df63246a0f31f834b7c9"
+  },
+  "createdAt": {
+    "$date": "2024-05-06T13:51:33.272Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-06T13:51:33.272Z"
+  },
+  "__v": 0
+}]

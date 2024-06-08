@@ -1,0 +1,1426 @@
+[{
+  "_id": {
+    "$oid": "62db5fe4829132482c674522"
+  },
+  "name": "Cá Dĩa Bồ Câu Đỏ - Pigeon Red Discus",
+  "price": 160000,
+  "salePrice": 198000,
+  "type": "Cá Dĩa",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/bocaudo.jpg?v=1703000551230",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674523"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon",
+      "createdAt": {
+        "$date": "2022-10-06T04:35:43.523Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-06T04:35:43.523Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "634246e5771e7933fc6124e6"
+      },
+      "name": "maithanhduc",
+      "star": 4,
+      "comment": "đẹp",
+      "createdAt": {
+        "$date": "2022-10-09T03:58:29.450Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-09T03:58:29.450Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6342471a771e7933fc6124ef"
+      },
+      "name": "ducabc",
+      "star": 2,
+      "comment": "oc",
+      "createdAt": {
+        "$date": "2022-10-09T03:59:22.579Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-09T03:59:22.579Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6395a2df3e328451242db808"
+      },
+      "name": "Thi",
+      "star": 5,
+      "comment": "",
+      "createdAt": {
+        "$date": "2022-12-11T09:29:03.934Z"
+      },
+      "updatedAt": {
+        "$date": "2022-12-11T09:29:03.934Z"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "_id": {
+        "$oid": "634246d6771e7933fc6124e5"
+      },
+      "author": "maithanhduc",
+      "isAdmin": false,
+      "content": "uiii",
+      "byUser": {
+        "$oid": "633d4a9239f8920a205225b1"
+      },
+      "replies": [
+        {
+          "_id": {
+            "$oid": "63424725771e7933fc6124f0"
+          },
+          "isAdmin": true,
+          "content": "oce",
+          "nameUser": "ducabc"
+        }
+      ],
+      "status": "pin"
+    }
+  ],
+  "__v": 14,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.800Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-11T09:29:03.936Z"
+  },
+  "blog": ""
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c67452a"
+  },
+  "name": "Black And White Angelfish",
+  "price": 64000,
+  "salePrice": 70000,
+  "type": "Cá Thần Tiên",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/blackandwhiteangelfish.jpg?v=1703000538317",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c67452b"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.802Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.802Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674532"
+  },
+  "name": "Cá Phượng Hoàng Panduro",
+  "price": 40000,
+  "salePrice": 45000,
+  "amount": 100,
+  "type": "Phượng Hoàng",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/snapinsta-app-57442723-134377567705198-7422460081922243642-n-1080.png?v=1703000537753",
+  "cloudinary_id": "",
+  "rating": 0,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "633d865c96f29f3250846d20"
+      },
+      "name": "ducabc",
+      "star": 5,
+      "comment": "ghhh",
+      "createdAt": {
+        "$date": "2022-10-05T13:27:56.296Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-05T13:27:56.296Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "636e78b095ca3b59986016df"
+      },
+      "name": "abc123",
+      "star": 5,
+      "comment": "yu",
+      "createdAt": {
+        "$date": "2022-11-11T16:30:40.377Z"
+      },
+      "updatedAt": {
+        "$date": "2022-11-11T16:30:40.377Z"
+      }
+    }
+  ],
+  "comments": [],
+  "__v": 2,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.804Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-11T16:30:40.377Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674500"
+  },
+  "name": "Cá Phượng Hoàng Peru Vàng",
+  "price": 40000,
+  "salePrice": 45000,
+  "type": "Phượng Hoàng",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/snapinsta-app-80720125-2561114550793200-6249615267797580378-n-1080.png?v=1703000538260",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674501"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon",
+      "createdAt": {
+        "$date": "2022-09-24T12:55:24.180Z"
+      },
+      "updatedAt": {
+        "$date": "2022-09-24T12:55:24.180Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "62dfd17f7735e705b4f4b9f6"
+      },
+      "name": "nguyen hoai thuong",
+      "star": 1,
+      "comment": "Test ",
+      "createdAt": {
+        "$date": "2022-07-26T11:35:27.393Z"
+      },
+      "updatedAt": {
+        "$date": "2022-07-26T11:35:27.393Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "62e11d1689a87d067823b3dd"
+      },
+      "name": "admin",
+      "star": 5,
+      "comment": "",
+      "createdAt": {
+        "$date": "2022-07-27T11:10:14.532Z"
+      },
+      "updatedAt": {
+        "$date": "2022-07-27T11:10:14.532Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "633d4ab539f8920a205225b2"
+      },
+      "name": "maithanhduc",
+      "star": 5,
+      "comment": "oce ne",
+      "createdAt": {
+        "$date": "2022-10-05T09:13:25.434Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-05T09:13:25.434Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6346eecf2553da1f50d47440"
+      },
+      "name": "Cao Kha Hieu",
+      "star": 1,
+      "comment": "",
+      "createdAt": {
+        "$date": "2022-10-12T16:44:00.013Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-12T16:44:00.013Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6388695bae7bc90ef81c5deb"
+      },
+      "name": "tanh",
+      "star": 2,
+      "comment": "sdf",
+      "createdAt": {
+        "$date": "2022-12-01T08:44:11.922Z"
+      },
+      "updatedAt": {
+        "$date": "2022-12-01T08:44:11.922Z"
+      }
+    }
+  ],
+  "__v": 26,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.788Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-01T08:44:11.922Z"
+  },
+  "comments": [
+    {
+      "_id": {
+        "$oid": "632efe3c32caaac44abfa380"
+      },
+      "author": "admin",
+      "isAdmin": true,
+      "content": "hiii",
+      "byUser": {
+        "$oid": "62f5d22569f0991f9c4475a5"
+      },
+      "replies": [
+        {
+          "_id": {
+            "$oid": "632efe4332caaac44abfa381"
+          },
+          "isAdmin": true,
+          "content": "okeee",
+          "nameUser": "admin"
+        },
+        {
+          "_id": {
+            "$oid": "63424619771e7933fc6124e1"
+          },
+          "isAdmin": true,
+          "content": "h\n",
+          "nameUser": "ducabc"
+        }
+      ],
+      "status": "pin"
+    },
+    {
+      "_id": {
+        "$oid": "632efe3c32caaac44abfa380"
+      },
+      "author": "admin",
+      "isAdmin": true,
+      "content": "hiii",
+      "byUser": {
+        "$oid": "62f5d22569f0991f9c4475a5"
+      },
+      "replies": [
+        {
+          "_id": {
+            "$oid": "632efe4332caaac44abfa381"
+          },
+          "isAdmin": true,
+          "content": "okeee",
+          "nameUser": "admin"
+        },
+        {
+          "_id": {
+            "$oid": "63424619771e7933fc6124e1"
+          },
+          "isAdmin": true,
+          "content": "h\n",
+          "nameUser": "ducabc"
+        }
+      ],
+      "status": "pin"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674502"
+  },
+  "name": "Cá Betta Dragon Black",
+  "price": 80000,
+  "salePrice": 88000,
+  "type": "Cá Betta",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/dragonblack.jpg?v=1703000541107",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674503"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon",
+      "createdAt": {
+        "$date": "2022-09-20T13:02:31.263Z"
+      },
+      "updatedAt": {
+        "$date": "2022-09-20T13:02:31.263Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6329ba0aa1146e3bc77d0bfc"
+      },
+      "name": "Cao Kha Hieu",
+      "star": 5,
+      "comment": "okke",
+      "createdAt": {
+        "$date": "2022-09-20T13:03:06.308Z"
+      },
+      "updatedAt": {
+        "$date": "2022-09-20T13:03:06.308Z"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "_id": {
+        "$oid": "6329b9e7a1146e3bc77d0bf7"
+      },
+      "author": "Cao Kha Hieu",
+      "content": "dcgsadc",
+      "byUser": {
+        "$oid": "6329b805a1146e3bc77d0bf0"
+      },
+      "replies": [
+        {
+          "_id": {
+            "$oid": "6329b9f4a1146e3bc77d0bfa"
+          },
+          "content": "dcsacdsa",
+          "nameUser": "Cao Kha Hieu"
+        },
+        {
+          "_id": {
+            "$oid": "6329b9faa1146e3bc77d0bfb"
+          },
+          "content": "kkkk",
+          "nameUser": "Cao Kha Hieu"
+        },
+        {
+          "_id": {
+            "$oid": "636ef1e9a2acfb131081668c"
+          },
+          "content": "hhu",
+          "nameUser": "abc123"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "6329b9eba1146e3bc77d0bf8"
+      },
+      "author": "Cao Kha Hieu",
+      "content": "bbbb",
+      "byUser": {
+        "$oid": "6329b805a1146e3bc77d0bf0"
+      },
+      "replies": []
+    },
+    {
+      "_id": {
+        "$oid": "6329b9eea1146e3bc77d0bf9"
+      },
+      "author": "Cao Kha Hieu",
+      "content": "dcsdcsa",
+      "byUser": {
+        "$oid": "6329b805a1146e3bc77d0bf0"
+      },
+      "replies": []
+    }
+  ],
+  "__v": 6,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.789Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-12T01:07:53.007Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c67451a"
+  },
+  "name": "Cá Betta Dragon Red",
+  "price": 80000,
+  "salePrice": 88000,
+  "type": "Cá Betta",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/dragonred.jpg?v=1703000541153",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c67451b"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.798Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.798Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c67452c"
+  },
+  "name": "Cá Betta Dragon Yellow",
+  "price": 80000,
+  "salePrice": 88000,
+  "type": "Cá Betta",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/dragonyellow.jpg?v=1703000541187",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c67452d"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon",
+      "createdAt": {
+        "$date": "2022-10-09T04:05:29.200Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-09T04:05:29.200Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "634248956d955d057825c1f0"
+      },
+      "name": "THPTMAIANHTUAN",
+      "star": 1,
+      "comment": "",
+      "createdAt": {
+        "$date": "2022-10-09T04:05:41.360Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-09T04:05:41.360Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "638ea69d0c2b4e3a8c23d1bd"
+      },
+      "name": "tanh",
+      "star": 5,
+      "comment": "",
+      "createdAt": {
+        "$date": "2022-12-06T02:19:09.997Z"
+      },
+      "updatedAt": {
+        "$date": "2022-12-06T02:19:09.997Z"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "_id": {
+        "$oid": "634248896d955d057825c1ef"
+      },
+      "author": "THPTMAIANHTUAN",
+      "content": "jmjn",
+      "byUser": {
+        "$oid": "634248356d955d057825c1ec"
+      },
+      "replies": []
+    }
+  ],
+  "__v": 2,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.802Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-06T02:19:09.998Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c67452e"
+  },
+  "name": "Cá Chuột Cafe - Aeneus Cory Green",
+  "price": 8000,
+  "salePrice": 10000,
+  "amount": 100,
+  "type": "Cá Chuột",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/chuotcafe.jpg?v=1703000549880",
+  "cloudinary_id": "",
+  "rating": 0,
+  "reviews": [],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.803Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674534"
+  },
+  "name": "Cá Chuột Trắng - Corydoras Goldabino",
+  "price": 12000,
+  "salePrice": 15000,
+  "amount": 100,
+  "type": "Cá Chuột",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/chuottrangalbino.jpg?v=1703000550477",
+  "cloudinary_id": "",
+  "rating": 0,
+  "reviews": [],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.805Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.805Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c67453c"
+  },
+  "name": "White Tetra",
+  "price": 16000,
+  "salePrice": 20000,
+  "amount": 100,
+  "type": "Cá Neon",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/whitetetra.jpg?v=1703000561463",
+  "cloudinary_id": "",
+  "rating": 0,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "633d580f343f2b3e04077e41"
+      },
+      "name": "maithanhduc",
+      "star": 5,
+      "comment": "như con cạc",
+      "createdAt": {
+        "$date": "2022-10-05T10:10:23.251Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-05T10:10:23.251Z"
+      }
+    }
+  ],
+  "comments": [],
+  "__v": 1,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.807Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-05T10:10:23.252Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c67453e"
+  },
+  "name": "Cá Cầu Vồng Táo Đỏ",
+  "price": 100000,
+  "salePrice": 110000,
+  "amount": 100,
+  "type": "Cá Cầu Vòng",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/491243485650x650result.jpg?v=1703000557063",
+  "cloudinary_id": "",
+  "rating": 0,
+  "reviews": [],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.808Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.808Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c67453f"
+  },
+  "name": "Cầu Vồng Madagascar - Madagascar Rainbowfish",
+  "price": 40000,
+  "salePrice": 44000,
+  "amount": 100,
+  "type": "Cá Cầu Vòng",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/madagascarrainbowfish.jpg?v=1703000557963",
+  "cloudinary_id": "",
+  "rating": 0,
+  "reviews": [],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.809Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.809Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674506"
+  },
+  "name": "Cá Phượng Hoàng Vàng Cánh Én - German Gold Ram Lyra",
+  "price": 20000,
+  "salePrice": 22000,
+  "type": "Phượng Hoàng",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/phuonghoangvangcanhen.jpg?v=1703000548583",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674507"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon",
+      "createdAt": {
+        "$date": "2022-10-05T14:19:40.799Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-05T14:19:40.799Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "633d927cd432720a34d50c69"
+      },
+      "name": "ducabc",
+      "star": 3,
+      "comment": "khá oce",
+      "createdAt": {
+        "$date": "2022-10-05T14:19:40.799Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-05T14:19:40.799Z"
+      }
+    }
+  ],
+  "comments": [],
+  "__v": 1,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.790Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-05T14:19:40.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c67450e"
+  },
+  "name": "Cá Phượng Hoàng Vàng - German Gold Ram Balloon",
+  "price": 50000,
+  "salePrice": 55000,
+  "type": "Phượng Hoàng",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/caphuonghoangvang.jpg?v=1703000548533",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c67450f"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.794Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.794Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674510"
+  },
+  "name": "Cá Phượng Hoàng Ngũ Sắc Lùn - Electric Blue Ram Balloon",
+  "price": 30000,
+  "salePrice": 33000,
+  "type": "Phượng Hoàng",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/caphuonghoangngusacvidai2.png?v=1703000548403",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674511"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.797Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.797Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c67451e"
+  },
+  "name": "Cá Neon Hoàng Đế Tím - Blue King Tetra",
+  "price": 20000,
+  "salePrice": 22000,
+  "type": "Cá Neon",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/bluekingtetra.jpg?v=1703000559957",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c67451f"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon"
+    },
+    {
+      "_id": {
+        "$oid": "62f4c52d0b84494e043698a0"
+      },
+      "name": "John Smith",
+      "star": 5,
+      "comment": "Alo",
+      "createdAt": {
+        "$date": "2022-08-11T09:00:29.473Z"
+      },
+      "updatedAt": {
+        "$date": "2022-08-11T09:00:29.473Z"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "_id": {
+        "$oid": "62f4c6f70b84494e043698a3"
+      },
+      "author": "John Smith",
+      "isAdmin": false,
+      "content": "Alo ALo",
+      "byUser": {
+        "$oid": "62f4ad014adf0d1a48aa79c1"
+      },
+      "replies": []
+    }
+  ],
+  "__v": 2,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.799Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-11T09:08:07.718Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674520"
+  },
+  "name": "Cá Neon Vua - Cardinal Tetra",
+  "price": 8000,
+  "salePrice": 8800,
+  "type": "Cá Neon",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/cardinaltetrabred.jpg?v=1703000560210",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674521"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.799Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.799Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674524"
+  },
+  "name": "Cá Sóc Đầu Đỏ Kim Cương - Rummy Nose Diamond",
+  "price": 24000,
+  "salePrice": 26400,
+  "type": "Cá Neon",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/rummynosediamondbrilliant.jpg?v=1703000560650",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674525"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.800Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674526"
+  },
+  "name": "Cá Tam Giác - Harlequin Red Tetra",
+  "price": 12000,
+  "salePrice": 13200,
+  "type": "Cá Neon",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/harlequinredtetra.jpg?v=1703000560683",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674527"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.801Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674536"
+  },
+  "name": "Cá Dĩa Vàng Mắt Đỏ - Manrlboro Yellow Albino",
+  "price": 450000,
+  "salePrice": 495000,
+  "amount": 100,
+  "type": "Cá Dĩa",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/7bcb9380a9ac4f018754d5ede55fd1.jpg?v=1703000552163",
+  "cloudinary_id": "",
+  "rating": 0,
+  "reviews": [],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.805Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.805Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674537"
+  },
+  "name": "Cá Dĩa Lam Mắt Đỏ - Platinum Albino Discus",
+  "price": 450000,
+  "salePrice": 495000,
+  "amount": 100,
+  "type": "Cá Dĩa",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/3d54c0f7e3cf4184b3a7bd9d2175a7.jpg?v=1703000551947",
+  "cloudinary_id": "",
+  "rating": 0,
+  "reviews": [],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.806Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c67453b"
+  },
+  "name": "Cá Dĩa Đỏ Trắng Mắt Đỏ - Red-White Albino Discus",
+  "price": 450000,
+  "salePrice": 495000,
+  "amount": 100,
+  "type": "Cá Dĩa",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/redwhitealbinodiscus.jpg?v=1703000551713",
+  "cloudinary_id": "",
+  "rating": 0,
+  "reviews": [],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.807Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674540"
+  },
+  "name": "Ông Tiên Red Back - Red Back Amapa Angelfish",
+  "price": 240000,
+  "salePrice": 264000,
+  "amount": 100,
+  "type": "Cá Thần Tiên",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/redbackamapaangelfishresult278.jpg?v=1703000539570",
+  "cloudinary_id": "",
+  "rating": 0,
+  "reviews": [],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.809Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.809Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674504"
+  },
+  "name": "Cá Chuột Trân Châu - Cory Juli",
+  "price": 30000,
+  "salePrice": 33000,
+  "type": "Cá Chuột",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/2.jpg?v=1703000550443",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674505"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.789Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.789Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674508"
+  },
+  "name": "Cá Chuột Sao - Cory Sterbai",
+  "price": 30000,
+  "salePrice": 33000,
+  "type": "Cá Chuột",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/1.jpg?v=1703000550350",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674509"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.790Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.790Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c67450a"
+  },
+  "name": "Cá Chuột Mỹ - Clown Loach",
+  "price": 60000,
+  "salePrice": 68000,
+  "type": "Cá Chuột",
+  "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/441/675/products/cachuotmy13b2e4609b01442dba075.jpg?v=1696583809377",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c67450b"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.793Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.793Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674512"
+  },
+  "name": "Cá Chuột Barbatus - Barbatus Corydoras",
+  "price": 240000,
+  "salePrice": 264000,
+  "type": "Cá Chuột",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/chuotbarbatus.jpg?v=1703000549720",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674513"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.797Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.797Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674514"
+  },
+  "name": "Cá Chuột Ellisae - Ellisae Corydoras",
+  "price": 120000,
+  "salePrice": 132000,
+  "type": "Cá Chuột",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/chuotellisae.jpg?v=1703000549750",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674515"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.797Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.797Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674516"
+  },
+  "name": "Cá Betta Super Blue",
+  "price": 120000,
+  "salePrice": 132000,
+  "type": "Cá Betta",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/superbluebetta.jpg?v=1703000541543",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674517"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.798Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.798Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c67451c"
+  },
+  "name": "Cá Betta Fancy Copper",
+  "price": 200000,
+  "salePrice": 220000,
+  "type": "Cá Betta",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/fancycopper.jpg?v=1703000541320",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c67451d"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.798Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.798Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674528"
+  },
+  "name": "Cá Betta Dumbo Halfmoon",
+  "price": 70000,
+  "salePrice": 77000,
+  "type": "Cá Betta",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/dumbohalfmoon.jpg?v=1703000541233",
+  "rating": 5,
+  "numReviews": 1,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "62db5fe4829132482c674529"
+      },
+      "name": "cao kha hieu",
+      "star": 5,
+      "comment": "ngon"
+    }
+  ],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.801Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.801Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c67452f"
+  },
+  "name": "Cá Betta Marbled",
+  "price": 250000,
+  "salePrice": 275000,
+  "amount": 100,
+  "type": "Cá Betta",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/cabettamarbled.jpg?v=1703000541447",
+  "cloudinary_id": "",
+  "rating": 0,
+  "reviews": [],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.803Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674530"
+  },
+  "name": "White Fin Tetra",
+  "price": 32000,
+  "salePrice": 35200,
+  "amount": 100,
+  "type": "Cá Neon",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/whitefintetra.jpg?v=1703000561377",
+  "cloudinary_id": "",
+  "rating": 0,
+  "reviews": [],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.803Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674533"
+  },
+  "name": "Cá Dĩa Lam Đức - Blue Diamond Discus",
+  "price": 270000,
+  "salePrice": 308000,
+  "amount": 100,
+  "type": "Cá Dĩa",
+  "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/441/675/products/fc97d5fe1d704bd8a5fa92259d0599.jpg?v=1703000551907",
+  "cloudinary_id": "",
+  "rating": 0,
+  "reviews": [],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.804Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.804Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674535"
+  },
+  "name": "Leopard Angelfish",
+  "price": 70000,
+  "salePrice": 77000,
+  "amount": 100,
+  "type": "Cá Thần Tiên",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/leopardangelfish.jpg?v=1703000539277",
+  "cloudinary_id": "",
+  "rating": 0,
+  "reviews": [],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.805Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.805Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c674538"
+  },
+  "name": "Cá Phượng Hoàng Lam Lùn - Baloon German Ram",
+  "price": 44000,
+  "salePrice": 48000,
+  "amount": 100,
+  "type": "Phượng Hoàng",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/3a736a7fe2af16f14fbe.jpg?v=1703000548317",
+  "cloudinary_id": "",
+  "rating": 0,
+  "reviews": [],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.806Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c67453a"
+  },
+  "name": "Cá Cầu Vồng Thạch Mỹ Nhân Shortbody - Boesemani",
+  "price": 198000,
+  "salePrice": 217800,
+  "amount": 100,
+  "type": "Cá Cầu Vòng",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/cacauvongthachmynhanshortbodyb.jpg?v=1703000557443",
+  "cloudinary_id": "",
+  "rating": 0,
+  "reviews": [],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.807Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.807Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62db5fe4829132482c67453d"
+  },
+  "name": "Chuột Botia Kubotai - Botia Kubotai",
+  "price": 90000,
+  "salePrice": 99000,
+  "amount": 100,
+  "type": "Cá Chuôtj",
+  "image": "https://bizweb.dktcdn.net/thumb/grande/100/441/675/products/botiakubotairesult.jpg?v=1703000550570",
+  "cloudinary_id": "",
+  "rating": 0,
+  "reviews": [],
+  "comments": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-07-23T02:41:40.808Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T02:41:40.808Z"
+  }
+}]
